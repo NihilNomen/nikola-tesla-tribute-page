@@ -1,0 +1,61 @@
+#content{
+  background-color: #B0C4DE;
+  padding: 50px;
+  border: 50px;
+  margin: 50px;
+}
+#header{
+  font-size: 300%;
+  text-align: center;
+  padding: 1px;
+  border: 0px;
+  margin: 0px;
+}
+#headline{
+  font-size: 150%;
+  font-style: italic;
+  text-align: center;
+}
+img{
+  display: block;
+  padding: 1px;
+  border: 1px;
+  margin: auto;
+  height: 300px;
+  width: 500px;
+}
+#caption{
+  font-size: 110%;
+  text-align: center;
+  padding: 1px;
+  border: 1px;
+  margin: auto;
+}
+#timeline-heading{
+  text-align: center;
+}
+#timeline{
+  display: inline-block;
+  vertical-align: top;
+}
+#timeline-heading{
+  text-align: left;
+  margin: 0px;  
+  border: 0px;
+}
+.quote{
+  font-size: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+.quoter{
+  margin-left: 500px;
+  margin-right: 500px;
+  white-space: nowrap;
+}
+#readmore{
+  text-align: center;
+}
+#author{
+  text-align: center;
+}
